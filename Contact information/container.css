@@ -1,0 +1,25 @@
+container {
+  font-family: Arial, sans-serif;
+  background-color: lightgray;
+  padding: 20px;
+  margin: 20px;
+}
+
+h1 {
+  color: navy;
+  font-size: 24px;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+strong {
+  color: navy;
+}
+
+body {
+  background-image: url('background.jpg');
+  background-size: cover;
+}
